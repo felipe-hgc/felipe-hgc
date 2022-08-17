@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Felipe
-:eyeglasses: I'm currently learning to become a Full Stack Python Developer Junior\
+##My name is Felipe
+#:eyeglasses: I'm currently learning to become a Full Stack Python Developer Junior\
 :computer: Here are some examples of my work using HTML/CSS and Python\
 You can see live versions of some of these in:\
 https://felipe-hgc.github.io/pruebaViajesChile/ \
 http://onlyflans-fhgc.herokuapp.com/ \
-📫 How to reach me: fgaldame@gmail.com \
+📫 How to reach me: fgaldame@gmail.com 
