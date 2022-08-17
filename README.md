@@ -3,7 +3,7 @@ Hi there 👋
 My name is Felipe \
 I'm from 🇨🇱
 
-I'm currently learning to become a Full Stack Python Developer Junior 🐍 \
+I studied business administration and i'm currently learning to become a Full Stack Python Developer Junior 🐍 \
 Here are some examples of my work using HTML/CSS and Python :computer: 
 
 You can see some "live" versions in:\
