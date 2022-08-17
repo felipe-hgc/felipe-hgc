@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is Felipe
+### My name is Felipe / I'm from Chile 🇨🇱
 ### I'm currently learning to become a Full Stack Python Developer Junior
 Here are some examples of my work using HTML/CSS and Python :computer: \
 \
