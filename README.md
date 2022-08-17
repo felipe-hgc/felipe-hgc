@@ -1,23 +1,7 @@
-### Hi there 👋
-
-<!--
-**felipe-hgc/felipe-hgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### My name is Felipe
-### :eyeglasses: I'm currently learning to become a Full Stack Python Developer Junior\
-:computer: Here are some examples of my work using HTML/CSS and Python\
+## Hi there 👋
+## My name is Felipe
+## I'm currently learning to become a Full Stack Python Developer Junior\
+Here are some examples of my work using HTML/CSS and Python :computer: \
 You can see live versions of some of these in:\
 https://felipe-hgc.github.io/pruebaViajesChile/ \
 http://onlyflans-fhgc.herokuapp.com/ \
